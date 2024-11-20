@@ -1,0 +1,48 @@
+edicion,fecha,mes,anio,ruta,km,tematica,asistencia
+01° Nocturno,29/05/2010,Mayo,2010,Centro Histórico,2.2,Ninguna,3500
+02° Nocturno,30/10/2010,Octubre,2010,Centro Hisórico,4,Muertos,10000
+03° Nocturno,26/02/2011,Febrero,2011,Centro Histórico,5.5,Enamorados,10000
+04° Nocturno,26/03/2011,Marzo,2011,Centro Histórico,5.5,Primavera,7000
+05° Nocturno,28/05/2011,Mayo,2011,Centro Histórico,4,Ninguna,15000
+06° Nocturno,29/10/2011,Octubre,2011,Centro Hisórico,6,Muertos,25000
+07° Nocturno,28/01/2012,Enero,2012,Centro Histórico,4.5,Pijamas,12000
+08° Nocturno,24/03/2012,Marzo,2012,Centro Histórico,4.5,Primavera,12000
+09° Nocturno,26/05/2012,Mayo,2012,Centro Histórico,4.5,Gala,7500
+10° Nocturno,27/10/2012,Octubre,2012,Centro Histórico,6,Muertos,40000
+11° Nocturno,23/02/2013,Febrero,2013,Centro Histórico,4.5,Enamorados,14000
+12° Nocturno,30/03/2013,Marzo,2013,Centro Histórico,6,Primavera,10000
+13° Nocturno,26/10/2013,Octubre,2013,Reforma-Centro Histórico,11,Muertos,39000
+14° Nocturno,23/11/2013,Noviembre,2013,Reforma-Centro Histórico,8,Revolución,7000
+15° Nocturno,29/03/2014,Marzo,2014,Reforma-Bosque de Chapultepec-Centro Histórico,17,Primavera,25000
+16° Nocturno,26/04/2014,Abril,2014,Reforma-Bosque de Chapultepec-Centro Histórico,17,Niñas/Niños,29597
+17° Nocturno,01/11/2014,Noviembre,2014,Reforma-Bosque de Chapultepec-Centro Histórico,17,Muertos,45000
+18° Nocturno,14/02/2015,Febrero,2015,Reforma-Bosque de Chapultepec-Centro Histórico,17,Enamorados,35121
+19° Nocturno,21/03/2015,Marzo,2015,Reforma-Bosque de Chapultepec-Centro Histórico,17,Primavera,48000
+20° Nocturno,30/05/2015,Mayo,2015,Reforma-Bosque de Chapultepec-Centro Histórico,17,Ninguna,15777
+21° Nocturno,31/10/2015,Octubre,2015,Reforma-Bosque de Chapultepec-Centro Histórico,17,Muertos,95000
+22° Nocturno,26/12/2015,Diciembre,2015,Reforma-Bosque de Chapultepec,13,Navidad,48235
+23° Nocturno,20/02/2016,Febrero,2016,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Amor,40439
+24° Nocturno,26/03/2016,Marzo,2016,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Primavera,50090
+25° Nocturno,29/10/2016,Octubre,2016,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Muertos,135000
+26° Nocturno,17/12/2016,Diciembre,2016,Reforma-Centro Histórico-Bosque de Chapultepec,18,Navidad,35000
+27° Nocturno,11/02/2017,Febrero,2017,Reforma-Centro Histórico-Bosque de Chapultepec,18,Amor,33451
+28° Nocturno,25/03/2017,Marzo,2017,Reforma-Centro Histórico-Bosque de Chapultepec,18,Primavera,23855
+29° Nocturno,04/11/2017,Noviembre,2017,Reforma-Juárez-Bosque de Chapultepec,12,Muertos,142000
+30° Nocturno,23/12/2017,Diciembre,2017,Reforma-Centro Histórico-Bosque de Chapultepec,18,Navidad,36187
+31° Nocturno,24/02/2018,Febrero,2018,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Amor,54000
+32° Nocturno,24/03/2018,Marzo,2018,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Primavera,36424
+33° Nocturno,03/11/2018,Noviembre,2018,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Muertos,145000
+34° Nocturno,22/12/2018,Diciembre,2018,Reforma-Centro Histórico-Bosque de Chapultepec,17,Navidad,18000
+35° Nocturno,23/02/2019,Febrero,2019,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Amor,35687
+36° Nocturno,30/03/2019,Marzo,2019,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución,18,Primavera,48842
+37° Nocturno,09/11/2019,Noviembre,2019,Reforma-Centro Histórico-Fuente de Petróleos-M. a la Revolución,18,Muertos,147500
+38° Nocturno,21/12/2019,Diciembre,2019,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución-Fuente de Petróleos,21,Navidad,28488
+39° Nocturno,22/02/2020,Febrero,2020,Reforma-Centro Histórico-Bosque de Chapultepec-M. a la Revolución-Fuente de Petróleos,21,Amor,40057
+40° Nocturno,26/02/2022,Febrero,2022,Reforma-Centro Histórico-Bosque de Chapultepec-Fuente de Petróleos,20,Amor,113062
+41° Nocturno,05/11/2022,Noviembre,2022,Reforma-Centro Histórico-Fuente de Petróleos,18,Muertos,103838
+42° Nocturno,25/02/2023,Febrero,2023,Reforma-Centro Histórico-Bosque de Chapultepec,20,Amor,45000
+43° Nocturno,25/03/2023,Marzo,2023,Reforma-Centro Histórico-Bosque de Chapultepec,20,Primavera,35056
+44° Nocturno,28/10/2023,Octubre,2023,Reforma-Centro Histórico-Fuente de Petróleos-M. a la Revolución,20,Muertos,56973
+45° Nocturno,23/12/2023,Diciembre,2023,Reforma-Centro Histórico-Fuente de Petróleos-M. a la Revolución,20,Navidad,27472
+46° Nocturno,24/02/2024,Febrero,2024,Reforma-Centro Histórico-Bosque de Chapultepec,20,Amor,39976
+47° Nocturno,30/03/2024,Marzo,2024,Reforma-Centro Histórico-M. a la Revolución,20,Primavera,46955
